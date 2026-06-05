@@ -10,7 +10,7 @@ Passionnée par le développement et la structuration de solutions logicielles, 
 
 **Langages & Frameworks**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,c,php,html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=java,c,php,html,css,js,react,python,Django" />
 </p>
 
 **Analyse & Bases de données**
