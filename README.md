@@ -27,6 +27,6 @@ Passionnée par le développement et la structuration de solutions logicielles, 
 ---
 
 ### Me contacter
-* **Portfolio** : [diatoustar.github.io/portfolio](https://diatoustar.github.io/portfolio/)
+* **Portfolio** : [diatoustar.github.io/portfolio-3D](diatoustar.github.io/portfolio-3D/)
 
 *"Dribbler les bugs avec la vision de Lamine Yamal."*
