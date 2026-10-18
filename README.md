@@ -10,12 +10,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍_Dakar,_Sénégal-0d1117?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_ESP_Dakar-0d1117?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F472B6&style=flat-square&label=Vues" />
-</p>
-
 ---
 
 ## À propos
