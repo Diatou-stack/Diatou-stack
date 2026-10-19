@@ -29,16 +29,16 @@ const diatou = {
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,django,php,js,react,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,php,js,ts,html,css,django,nodejs,nextjs,react&theme=dark" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,obsidian&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,docker,aws,vitest,git,github,githubactions,vscode,obsidian&theme=dark" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Merise-008080?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-005580?style=for-the-badge&logo=staruml&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-005580?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
 </p>
-
 
 ---
 
